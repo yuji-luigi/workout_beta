@@ -251,6 +251,10 @@ footer {
      
  }
 
+ .inside-one-workout {
+     width: 300px;
+     text-align: center;
+ }
 
 .inside-one-workout li:hover {
     cursor: pointer;
@@ -260,6 +264,9 @@ footer {
      color:rgba(255, 255, 255, 1)
 }
 
+.inside-description img {
+    width: 200px;;
+}
 
 .inside-one-workout.selected {
     display:block;
