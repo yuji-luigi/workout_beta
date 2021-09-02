@@ -92,6 +92,8 @@ header {
     background-image: url("images/image_grotta.jpeg");
     background-size: 100%;
     background-blend-mode: multiply;
+    width: 100%;
+    padding: 10%;
 }
 .section-header {
     text-align: center;
