@@ -254,6 +254,7 @@ footer {
  .inside-one-workout {
      width: 300px;
      text-align: center;
+     margin: auto;
  }
 
 .inside-one-workout li:hover {
@@ -265,7 +266,8 @@ footer {
 }
 
 .inside-description img {
-    width: 200px;;
+    width: 200px;
+    height: auto;
 }
 
 .inside-one-workout.selected {
